@@ -132,3 +132,15 @@ string result4 = car switch
     _ => "Неизвестный транспорт"
 };
 Console.WriteLine(result4);
+
+Console.WriteLine("Дополнительное задание");
+int number = 1;
+string result5 = number switch
+{
+    < 0 => "Отрицательное",
+    1 or 2 or 3 => "Маленькое число",
+    >= 0 and <= 9 => "Однозначное",
+    >= 10 and <= 99 => "Двузначное",
+    >= 100 => "Трёхзначное и больше"
+};
+Console.WriteLine(result5);
