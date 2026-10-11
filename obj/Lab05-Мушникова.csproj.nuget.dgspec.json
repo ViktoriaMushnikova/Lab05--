@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\Lab05-Мушникова\\Lab05-Мушникова.csproj": {}
+    "C:\\Users\\admin\\Desktop\\Домашнее задание.1\\Lab05--\\Lab05-Мушникова.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Lab05-Мушникова\\Lab05-Мушникова.csproj": {
+    "C:\\Users\\admin\\Desktop\\Домашнее задание.1\\Lab05--\\Lab05-Мушникова.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Lab05-Мушникова\\Lab05-Мушникова.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Домашнее задание.1\\Lab05--\\Lab05-Мушникова.csproj",
         "projectName": "Lab05-Мушникова",
-        "projectPath": "C:\\Users\\admin\\Documents\\Lab05-Мушникова\\Lab05-Мушникова.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Домашнее задание.1\\Lab05--\\Lab05-Мушникова.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Lab05-Мушникова\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Домашнее задание.1\\Lab05--\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
